@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://assets.referrio.com/fonts/AvenirLTStd-Light.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://assets.referrio.com/fonts/AvenirLTStd-Book.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://assets.referrio.com/fonts/AvenirLTStd-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://assets.referrio.com/fonts/AvenirLTStd-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://assets.referrio.com/fonts/AvenirLTStd-Heavy.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://assets.referrio.com/fonts/AvenirLTStd-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: block;
+}
