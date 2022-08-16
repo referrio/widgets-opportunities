@@ -146,6 +146,7 @@ const App = ({ domElement }: any) => {
                         imageId: data.company.imageId,
                       }}
                       onClick={() => redirectToReferView(data.id)}
+                      instance={environment}
                       key={index}
                     />
                   );
