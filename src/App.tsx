@@ -48,6 +48,7 @@ const App = ({ domElement }: any) => {
       ...state,
       opportunities: initialResp.opportunities,
       lastKey: initialResp.lastEvaluatedKey,
+      loadMoreDisabled: !initialResp.lastEvaluatedKey,
     });
   };
 
